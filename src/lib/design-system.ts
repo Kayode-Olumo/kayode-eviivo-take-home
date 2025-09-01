@@ -102,4 +102,3 @@ export const designSystem = {
       accent: "bg-gradient-to-r from-yellow-400 to-lime-400 bg-clip-text text-transparent",
     },
   } as const
-  
