@@ -1,12 +1,34 @@
-# React + Vite
+# React Tabs Exercise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a starter template created with **Vite**, **React**, **TypeScript**, and **Tailwind CSS v4**.  
+The full instructions for the exercise are displayed on the main page when you run the app.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
 
-## Expanding the ESLint configuration
+### 1. Install dependencies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+```
+
+### 2. Start the development server
+
+```bash
+npm run dev
+```
+
+### 3. Open the app
+
+Visit http://localhost:5173 in your browser.
+The main page contains the task instructions and expectations.
+
+---
+
+## Tech Stack
+
+-[Vite](https://vitejs.dev/)\
+-[React](https://react.dev/)\
+-[TypeScript](https://www.typescriptlang.org/)\
+-[Tailwind CSS v4](https://tailwindcss.com/)
